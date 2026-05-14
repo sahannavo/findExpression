@@ -16,15 +16,8 @@
 
 ### Face Detection in Action
 
-![Face Detection](screenshot1.png)
+![Face Detection](assets/screenshot.png)
 
-### Emotion Recognition
-
-![Emotion Detection](screenshot2.png)
-
-### Face Landmarks
-
-![Face Landmarks](screenshot3.png)
 
 </div>
 
